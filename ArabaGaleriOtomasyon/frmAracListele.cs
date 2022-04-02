@@ -97,6 +97,8 @@ namespace ArabaGaleriOtomasyon
                     comboBox2.Items.Add("CLA200");
                     comboBox2.Items.Add("S500");
                     comboBox2.Items.Add("E180");
+                    comboBox2.Items.Add("C");
+
                 }
                 else if (comboBox1.SelectedIndex == 3)
                 {
