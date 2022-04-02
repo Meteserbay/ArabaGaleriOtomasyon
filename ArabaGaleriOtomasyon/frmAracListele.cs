@@ -90,6 +90,7 @@ namespace ArabaGaleriOtomasyon
                     comboBox2.Items.Add("5.20d");
                     comboBox2.Items.Add("M");
                     comboBox2.Items.Add("1.20i");
+                    comboBox2.Items.Add("4.20d");
                 }
                 else if (comboBox1.SelectedIndex == 2)
                 {
